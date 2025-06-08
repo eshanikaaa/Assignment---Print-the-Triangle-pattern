@@ -1,1 +1,1 @@
-# Assignment---Print-the-Triangle-pattern
+To Create lower triangular, upper triangular and pyramid containing the "*" character.
